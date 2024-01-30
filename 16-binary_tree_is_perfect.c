@@ -1,6 +1,6 @@
 #include "binary_trees.h"
 /**
- * tree_is_perfect -write function that check that tree is perfect or not
+ * tree_is_perfect_or_not - function checking that tree is perfect or not
  * @tree: tree to check if it is perfect or not
  * Return: 0 if is not a perfect or num of height
  */
